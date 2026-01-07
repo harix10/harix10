@@ -6,7 +6,7 @@ I focus on building **clean, well-structured projects** while strengthening my *
 ---
 
 ### 🔧 Technical Skills
-- **Languages:** Java, C++
+- **Languages:** Python, C++
 - **Core CS:** Data Structures, Algorithms, OOP
 - **Backend:** Node.js (learning), REST APIs
 - **Databases:** MongoDB (learning)
