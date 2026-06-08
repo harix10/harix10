@@ -1,43 +1,73 @@
-## Hi, I’m Hari 👋
+# Hi, I'm Hari 👋
 
-🎓 Computer Science student with a strong interest in **Backend and Full-Stack Development**.  
-I focus on building **clean, well-structured projects** while strengthening my **Data Structures & Algorithms** foundation.
+🎓 Computer Science student at IIIT Kottayam with a strong interest in **Artificial Intelligence, Machine Learning, and Software Engineering**.
 
----
-
-### 🔧 Technical Skills
-- **Languages:** Python, C++
-- **Core CS:** Data Structures, Algorithms, OOP
-- **Backend:** Node.js (learning), REST APIs
-- **Databases:** MongoDB (learning)
-- **Tools:** Git, GitHub, VS Code
+I enjoy building intelligent applications, exploring data-driven solutions, contributing to open source, and continuously improving my problem-solving skills.
 
 ---
 
-### 📌 What I’m Working On
-- Building **real-world projects** to understand backend systems
-- Practicing **DSA consistently** for interviews
-- Improving code quality, readability, and documentation
-- Preparing for **internships and hackathons**
+## 🔧 Technical Skills
+
+### Languages
+
+* Python
+* C++
+
+### AI & Data Science
+
+* Machine Learning
+* NumPy
+* Pandas
+* Scikit-Learn (learning)
+* Data Analysis
+
+### Core CS
+
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* Problem Solving
+
+### Tools
+
+* Git
+* GitHub
+* Jupyter Notebook
+* VS Code
 
 ---
 
-### 🚀 Projects
-- **DSA Practice:** Structured solutions with explanations
-- **Java / C++ Mini Projects:** CLI-based system design projects
-- **Full-Stack Learning:** Backend fundamentals and API development
+## 📌 What I'm Working On
+
+* Learning Machine Learning and Data Science fundamentals
+* Building AI-powered projects
+* Contributing to Open Source
+* Strengthening Data Structures & Algorithms
+* Preparing for internships and GSoC
 
 ---
 
-### 🎯 Goals
-- Become strong in **problem solving & system thinking**
-- Build **production-style backend projects**
-- Secure a **software engineering internship**
+## 🚀 Projects
+
+* Machine Learning Projects
+* Data Analysis Projects
+* Sleep Tracker Application
+* Open Source Contributions
+* DSA Practice Repository
 
 ---
 
-📫 **Reach me at:**  
-- Email: harikrishnan1025@gmail.com  
-- LinkedIn: linkedin.com/in/hari-krishnan-s1025
+## 🎯 Goals
 
+* Become a skilled AI Engineer / Data Scientist
+* Build impactful AI-powered applications
+* Contribute meaningfully to Open Source
+* Secure AI/ML internship opportunities
+* Participate in GSSoC and GSoC
 
+---
+
+## 📫 Connect With Me
+
+* Email: [hari.ks.dev@gmail.com](mailto:hari.ks.dev@gmail.com)
+* LinkedIn: linkedin.com/in/hari-krishnan-s1025
+* GitHub: github.com/harix10
