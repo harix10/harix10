@@ -46,16 +46,6 @@ I enjoy building intelligent applications, exploring data-driven solutions, cont
 
 ---
 
-## 🚀 Projects
-
-* Machine Learning Projects
-* Data Analysis Projects
-* Sleep Tracker Application
-* Open Source Contributions
-* DSA Practice Repository
-
----
-
 ## 🎯 Goals
 
 * Become a skilled AI Engineer / Data Scientist
